@@ -1,0 +1,28 @@
+nav ul {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;   
+    font-weight: 400;
+    text-align: right;
+    margin: 30px;
+    list-style: armenian;
+}
+img {
+    border-bottom-color: brown;
+    border-bottom-width: 20px;
+}
+#opener {
+    font-variant-caps: all-petite-caps; 
+}
+#funtimes {
+    font-style: italic;
+    font-size: 45px;    
+}
+#loginlink {
+    text-align: right;
+    margin: 50px;
+}
+footer {    
+    font-size: 20px;   
+    font-stretch: ultra-expanded;
+    color:  green;
+}
