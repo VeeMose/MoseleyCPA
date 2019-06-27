@@ -5,6 +5,7 @@ nav ul {
     text-align: right;
     margin: 30px;
     list-style: armenian;
+    list-style-position: inherit;
 }
 img {
     border-bottom-color: brown;
